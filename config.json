@@ -1,0 +1,22 @@
+{
+    "days": {
+        "monday": true,
+        "tuesday": true,
+        "wednesday": true,
+        "thursday": true,
+        "friday": true
+    },
+    "regions": {
+        "central_cascades": true,
+        "central_washington": true,
+        "eastern_washington": true,
+        "issaquah_alps": true,
+        "mount_rainier_area": true,
+        "north_cascades": true,
+        "olympic_peninsula": true,
+        "puget_sound_and_islands": true,
+        "snoqualmie_region": true,
+        "south_cascades": true,
+        "southwest": true
+    }
+  }
